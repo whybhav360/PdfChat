@@ -67,7 +67,7 @@ Embeddings: sentence-transformers/all-MiniLM-L6-v2
 ```csharp
 chat-with-pdf/
 ├── app.py
-├── .env.example
+├── .env
 ├── .gitignore
 ├── requirements.txt
 └── README.md
