@@ -64,15 +64,14 @@ LLM: google/flan-t5-base
 Embeddings: sentence-transformers/all-MiniLM-L6-v2
 
 📂 Folder Structure
-csharp
-Copy
-Edit
+```csharp
 chat-with-pdf/
 ├── app.py
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 🔐 Security
 API keys are stored in .env (never committed to Git).
 
@@ -94,12 +93,3 @@ Add support for image-based PDFs (OCR)
 
 Deploy to Hugging Face or Streamlit Cloud
 
-📄 License
-MIT License © 2025 Vaibhav Madaan
-
-🙌 Acknowledgements
-LangChain
-
-Hugging Face Transformers
-
-Streamlit
