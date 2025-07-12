@@ -84,7 +84,7 @@ Upload a research paper and get summaries
 
 Chat with PDF documentation or tutorials
 
-##Working
+## Working
 ![PdfChat-gif](https://github.com/user-attachments/assets/38dbc469-5732-4684-8e13-20edaa0bd585)
 
 
